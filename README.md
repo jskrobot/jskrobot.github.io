@@ -1,3 +1,6 @@
+body {
+background-color: lightblue;
+}
 # jskrobot.github.io
 
 # AVATAR [^1]
