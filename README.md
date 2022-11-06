@@ -1,7 +1,8 @@
 
 # jskrobot.github.io
 
-# AVATAR [^1]
+
+ # AVATAR [^1]
 ![avatar: the last airbender](avatar.jpg)
 
 Water. Earth. Fire. Air.
@@ -13,10 +14,11 @@ A long time ago, four nations lived together in harmony. Then everything changed
 ## Seasons of the Avatar: The Last Airbender [^2]
 |season|name of season|
 |:---------:|:---------:|
-|1|Book One: Water|
-|2|Book Two: Earth|
-|3|Book Three: Fire|
+|1 |Book One: Water|
+|2  |Book Two: Earth|
+|3  |Book Three: Fire|
 
 
 [^1]: 1
 [^2]: 2
+
